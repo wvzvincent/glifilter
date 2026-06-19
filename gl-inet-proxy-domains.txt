@@ -23,6 +23,7 @@ abplive.com
 abs.edu
 acast.com
 accim.org
+accountboy.com
 accountkit.com
 aceros-de-hispania.com
 acevpn.com
@@ -128,7 +129,6 @@ alive.bar
 aljazeera.com
 aljazeera.net
 alkalicore-pa.clients6.google.com
-alkalimakersuite-pa.clients6.google.com
 alkasir.com
 all4mom.org
 allcoin.com
@@ -236,7 +236,10 @@ anpopo.com
 answering-islam.org
 antd.org
 anthonycalzadilla.com
+anthropic-com.ghost.io
+anthropic.auth0.com
 anthropic.com
+anthropic.com.cdn.cloudflare.net
 anti1984.com
 antichristendom.com
 antigravity-unleash.goog
@@ -264,7 +267,6 @@ apartmentratings.com
 apartments.com
 apat1989.org
 apetube.com
-api-iam.intercom.io
 api.ai
 api.amplitude.com
 api.github.com
@@ -272,9 +274,7 @@ api.githubcopilot.com
 api.groq.com
 api.imem.app
 api.jetbrains.ai
-api.microsoftapp.net
 api.mixpanel.com
-api.msn.com
 api.okzy.tv
 api.proxlet.com
 api.statsig.com
@@ -285,7 +285,6 @@ api.tv.colnv.com
 api.waqi.info
 apiary.io
 apigee.com
-apis.google.com
 apk-dl.com
 apk.support
 apk.tw
@@ -306,14 +305,10 @@ app.tutanota.com
 appadvice.com
 appdownloader.net
 apple-dns.net
-apple-relay.apple.com
-apple-relay.cloudflare.com
-apple-relay.fastly-edge.com
 apple.comscoreresearch.com
 apple.news
 applecensorship.com
 applemusic.com
-apps.mzstatic.com
 appshopper.com
 appsocks.net
 appspot-preview.com
@@ -375,7 +370,6 @@ aspistrategist.org.au
 aspnetcdn.com
 assembla.com
 assets-priconne-redive-us.akamaized.net
-assets.msn.com
 assets.nxtrace.org
 assetshuluimcom-a.akamaihd.net
 assimp.org
@@ -605,7 +599,6 @@ binance.com
 binance.org
 binance.us
 binancezh.cc
-bing-shopping.microsoft-falcon.io
 bing.com
 bing.net
 bingapis.com
@@ -750,6 +743,7 @@ broadpressinc.com
 brockbbs.com
 brookings.edu
 browser-intake-datadoghq.com
+browser-intake-us5-datadoghq.com
 brucewang.net
 brutaltgp.com
 bsky.app
@@ -1142,8 +1136,11 @@ ck101.com
 cl.ly
 clarionproject.org
 classicalguitarblog.net
+clau.de
 claude.ai
 claude.com
+claudemcpclient.com
+claudemcpcontent.com
 claudeusercontent.com
 clb.org.hk
 cleansite.biz
@@ -1281,7 +1278,6 @@ counter.social
 coursehero.com
 covenantswatch.org.tw
 coze.com
-cp4.cloudflare.com
 cpj.org
 cpu-monkey.com
 cq99.us
@@ -1338,10 +1334,8 @@ culturedcode.com
 cumlouder.com
 curbed.com
 curiositystream.com
-cursor-cdn.com
 cursor.com
 cursor.sh
-cursorapi.com
 curvefish.com
 cusp.hk
 cusu.hk
@@ -1683,7 +1677,6 @@ doh.sb
 dojin.com
 dok-forum.net
 dokusho-ojikan.jp
-dola.com
 dolc.de
 dolf.org.hk
 dollf.com
@@ -1835,7 +1828,6 @@ edge.cwtv-vod-ext.top.comcast.net
 edgecastcdn.net
 edgedatg.com
 edgekey.net
-edgeservices.bing.com
 edgesuite.net
 edicypages.com
 edigest.hk
@@ -2564,9 +2556,6 @@ gate-project.com
 gate.io
 gatecoin.com
 gateway.ai.cloudflare.com
-gateway.bingviz.microsoft.net
-gateway.bingviz.microsoftapp.net
-gateway.icloud.com
 gather.com
 gatherproxy.com
 gati.org.tw
@@ -2855,7 +2844,6 @@ gunsandammo.com
 guo.media
 guruonline.hk
 gutteruncensored.com
-guzzoni.apple.com
 gvlib.com
 gvm.com.tw
 gvt0.com
@@ -3347,7 +3335,6 @@ images.workoscdn.com
 imageshack.us
 imagevenue.com
 imagezilla.net
-imagine.meta.com
 imago-images.com
 imb.org
 imdb.com
@@ -3367,7 +3354,6 @@ impp.mn
 improd.works
 imtoken.fans
 in-disguise.com
-in.appcenter.ms
 in.com
 in99.org
 incapdns.net
@@ -3916,7 +3902,6 @@ live.net
 livecoin.net
 livedoor.jp
 livefilestore.com
-livekit.cloud
 liveleak.com
 livemint.com
 livestation.com
@@ -3937,7 +3922,6 @@ lobsangwangyal.com
 localbitcoins.com
 localdomain.ws
 localpresshk.com
-location.microsoft.com
 lockestek.com
 logbot.net
 login.microsoftonline.com
@@ -4275,6 +4259,7 @@ monlamit.org
 monocloud.me
 monster.com
 moodyz.com
+moomoo.com
 moon.fm
 moonbbs.com
 moonbbs.info
@@ -4780,7 +4765,6 @@ octocaptcha.com
 oculus.com
 oculuscdn.com
 ocvideo.apple.com
-odc.officeapps.live.com
 odysee.com
 oex.com
 offbeatchina.com
@@ -5175,8 +5159,6 @@ powerphoto.org
 powerpointninja.com
 pp.ua
 pplusstatic.com
-pplx-res.cloudinary.com
-pplx.ai
 ppy.sh
 prayforchina.net
 prcleader.org
@@ -5350,7 +5332,6 @@ qx.net
 qxbbs.org
 qz.com
 r-pool.net
-r.bing.com
 r0.ru
 r10s.jp
 r18.com
@@ -5633,17 +5614,16 @@ segment.io
 sehuatang.net
 sehuatang.org
 sejie.com
-self.events.data.microsoft.com
 sellclassics.com
 sendsmtp.com
 sendspace.com
 sensortower.com
 sentry.io
 seraph.me
+servd-anthropic-website.b-cdn.net
 servehttp.com
 serveuser.com
 serveusers.com
-services.bingapis.com
 sesawe.net
 sesawe.org
 sethwklein.net
@@ -5775,6 +5755,7 @@ sinomontreal.ca
 sinonet.ca
 sinopitt.info
 sinoquebec.com
+sinyalee.com
 sipml5.org
 sis.xxx
 sis001.com
@@ -5833,7 +5814,6 @@ smh.com.au
 smhric.org
 smith.edu
 smn.news
-smoot.apple.com
 smyxy.org
 snapchat.com
 snapseed.com
@@ -7371,7 +7351,6 @@ wuw.red
 wuyanblog.com
 wwe.com
 wwitv.com
-www.bing.com
 www.clashverge.dev
 www.lamenhu.com
 www.orchidbbs.com
@@ -7459,6 +7438,7 @@ xn--ngstr-lra8j.com
 xn--noss43i.com
 xn--oiq.cc
 xn--u2u927b.com
+xn--vuqv2cf7wzyig79c.com
 xnpool.com
 xnxx-cdn.com
 xnxx.com
@@ -7788,7 +7768,6 @@ zapto.org
 zattoo.com
 zb.com
 zdnet.com.tw
-zed.dev
 zee5.com
 zee5.in
 zee5.tv
