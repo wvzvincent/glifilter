@@ -82,6 +82,7 @@ ai.com
 ai.dev
 ai.google.dev
 ai.studio
+aicode.googleapis.com
 aida.googleapis.com
 aiosearch.com
 aiph.net
