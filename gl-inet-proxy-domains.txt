@@ -999,6 +999,7 @@ chat.openai.com
 chat.openai.com.cdn.cloudflare.net
 chatgpt.com
 chatgpt.livekit.cloud
+chatgpt.site
 chatnook.com
 chatpdf.com
 chaturbate.com
