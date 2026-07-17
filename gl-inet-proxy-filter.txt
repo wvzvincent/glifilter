@@ -280,6 +280,7 @@ api.mixpanel.com
 api.moomoobull.com
 api.okzy.tv
 api.proxlet.com
+api.revenuecat.com
 api.statsig.com
 api.swiftgram.app
 api.termius.com
@@ -5192,6 +5193,7 @@ polygon.com
 polymarket.com
 polymer-project.org
 polymerhk.com
+pool.ntp.org
 poolbinance.com
 poolin.com
 popai.pro
