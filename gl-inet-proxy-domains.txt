@@ -967,6 +967,7 @@ centauro.com.br
 centerforhumanreprod.com
 centralnation.com
 centurys.net
+cerebras.ai
 certificate-transparency.org
 cex.io
 cf-images.ap-southeast-1.prod.boltdns.net
@@ -1104,6 +1105,7 @@ chromeexperiments.com
 chromercise.com
 chromestatus.com
 chromium.org
+cht.com.tw
 chuang-yen.org
 chuangcachecdnoversea-tw.inter.ptqy.gitv.tv
 chubold.com
@@ -4345,7 +4347,6 @@ movements.org
 moves-export.com
 moviefap.com
 moviesanywhere.com
-mozilla.ai
 mozilla.org
 moztw.org
 mp3buscador.com
@@ -4764,6 +4765,7 @@ ntdtv.cz
 ntdtv.jp
 ntdtv.ru
 ntdtvla.com
+nthlink.com
 ntrfun.com
 ntu.edu.tw
 nu.nl
@@ -5414,7 +5416,6 @@ radio.co
 radio.garden
 radioaustralia.net.au
 radiohilight.net
-radiojar.com
 radioline.co
 radiotime.com
 radiovaticana.org
@@ -7446,7 +7447,6 @@ wuw.red
 wuyanblog.com
 wwe.com
 wwitv.com
-www.clashverge.dev
 www.lamenhu.com
 www.orchidbbs.com
 www.taup.org.tw
