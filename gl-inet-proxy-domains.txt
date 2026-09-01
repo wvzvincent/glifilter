@@ -2663,6 +2663,7 @@ getjetso.com
 getlantern.org
 getmalus.com
 getmdl.io
+getmonero.org
 getoutline.org
 getpricetag.com
 getsession.org
