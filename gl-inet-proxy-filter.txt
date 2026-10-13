@@ -133,6 +133,7 @@ alive.bar
 aljazeera.com
 aljazeera.net
 alkalicore-pa.clients6.google.com
+alkalimakersuite-pa.clients6.google.com
 alkasir.com
 all4mom.org
 allcoin.com
@@ -208,7 +209,6 @@ anchorfree.com
 ancsconf.org
 andfaraway.net
 android-x86.org
-android.chat.openai.com
 android.com
 androidapksfree.com
 androidify.com
@@ -240,10 +240,7 @@ anpopo.com
 answering-islam.org
 antd.org
 anthonycalzadilla.com
-anthropic-com.ghost.io
-anthropic.auth0.com
 anthropic.com
-anthropic.com.cdn.cloudflare.net
 anti1984.com
 antichristendom.com
 antigravity-unleash.goog
@@ -292,6 +289,7 @@ api.tv.colnv.com
 api.waqi.info
 apiary.io
 apigee.com
+apis.google.com
 apk-dl.com
 apk.support
 apk.tw
@@ -307,11 +305,11 @@ apm-misaka.biliapi.net
 app-measurement.net
 app.element.io
 app.heywire.com
-app.launchdarkly.com
 app.tutanota.com
 appadvice.com
 appdownloader.net
 apple-dns.net
+apple-relay.fastly-edge.com
 apple.comscoreresearch.com
 apple.news
 applecensorship.com
@@ -406,9 +404,7 @@ audacy.com
 audio-ak-spotify-com.akamaized.net
 audio4-ak-spotify-com.akamaized.net
 audionow.com
-auth.openai.com
 auth0.com
-auth0.openai.com
 autodraw.com
 av-e-body.com
 av.com
@@ -754,7 +750,6 @@ broadpressinc.com
 brockbbs.com
 brookings.edu
 browser-intake-datadoghq.com
-browser-intake-us5-datadoghq.com
 brucewang.net
 brutaltgp.com
 bsky.app
@@ -952,7 +947,6 @@ cdn.angruo.com
 cdn.optimizely.com
 cdn.segment.com
 cdn.usefathom.com
-cdn.workos.com
 cdnews.com.tw
 cdnst.net
 cdp1989.org
@@ -1159,8 +1153,6 @@ classicalguitarblog.net
 clau.de
 claude.ai
 claude.com
-claudemcpclient.com
-claudemcpcontent.com
 claudeusercontent.com
 clb.org.hk
 cleansite.biz
@@ -1173,7 +1165,6 @@ clementine-player.org
 clien.net
 client-api.arkoselabs.com
 clients6.google.com
-clientstream.launchdarkly.com
 cling.omy.sg
 clinica-tibet.ru
 clipconverter.cc
@@ -1298,6 +1289,7 @@ counter.social
 coursehero.com
 covenantswatch.org.tw
 coze.com
+cp4.cloudflare.com
 cpc.com.tw
 cpj.org
 cpu-monkey.com
@@ -1337,7 +1329,6 @@ cstatic.net
 csuchen.de
 csw.org.uk
 ct.org.tw
-ct.sendgrid.net
 ctao.org
 ctee.com.tw
 ctfriend.net
@@ -1504,7 +1495,6 @@ derekhsu.homeip.net
 desc.se
 desipro.de
 deskconnect.com
-desktop.chat.openai.com
 dessci.com
 destroy-china.jp
 deutsche-welle.de
@@ -1977,7 +1967,6 @@ euronews.com
 europa.eu
 evchk.wikia.org
 even.stream
-events.launchdarkly.com
 events.statsigapi.net
 everipedia.org
 evernote.com
@@ -2110,7 +2099,6 @@ fdbox.com
 fdc64.de
 fdc64.org
 fdc89.jp
-featureassets.org
 featuregates.org
 feedburner.com
 feeder.co
@@ -2216,7 +2204,6 @@ forthethrone.com
 forum.omy.sg
 forum4hk.com
 forums-free.com
-forwarder.workos.com
 fotile.me
 fountmedia.io
 fourface.nodesnoop.com
@@ -2907,6 +2894,7 @@ gunsandammo.com
 guo.media
 guruonline.hk
 gutteruncensored.com
+guzzoni.apple.com
 gvlib.com
 gvm.com.tw
 gvt0.com
@@ -3401,7 +3389,6 @@ imageflea.com
 imageglass.org
 images-daznservices-com.cdn.ampproject.org
 images-gaytube.com
-images.workoscdn.com
 imageshack.us
 imagevenue.com
 imagezilla.net
@@ -3440,6 +3427,7 @@ indiatoday.in
 indiemerch.com
 indsr.org.tw
 inf.news
+inference.codeium.com
 info-graf.fr
 informer.com
 infosec.exchange
@@ -3480,7 +3468,6 @@ invidio.us
 inxian.com
 io.io
 iole.tv
-ios.chat.openai.com
 iownyour.biz
 iownyour.org
 ip.sb
@@ -3688,9 +3675,7 @@ joymiihub.com
 jpopforum.net
 jqueryui.com
 js-agent.newrelic.com
-js.intercomcdn.com
 js.revsci.net
-js.stripe.com
 jsdelivr.net
 jshell.net
 jshint.com
@@ -4845,8 +4830,6 @@ nytlog.com
 nytstyle.com
 nzchinese.com
 nzchinese.net.nz
-o207216.ingest.sentry.io
-o33249.ingest.sentry.io
 o3o.ca
 oaistatic.com
 oaiusercontent.com
@@ -5303,7 +5286,6 @@ privoxy.org
 proactivebackend-pa.googleapis.com
 procopytips.com
 prod.hjholdings.tv
-prodregistryv2.org
 production-openaicom-storage.azureedge.net
 project-syndicate.org
 prompthero.com
@@ -5631,7 +5613,6 @@ rukor.org
 rule34.us
 rule34.xxx
 rule34video.com
-rum.browser-intake-datadoghq.com
 rumble.com
 runbtx.com
 rushbee.com
@@ -5742,8 +5723,9 @@ sendspace.com
 sensortower.com
 sentry.io
 seraph.me
-servd-anthropic-website.b-cdn.net
 servehttp.com
+server.codeium.com
+server.self-serve.windsurf.com
 serveuser.com
 serveusers.com
 sesawe.net
@@ -5751,8 +5733,6 @@ sesawe.org
 sethwklein.net
 setn.com
 settv.com.tw
-setup.auth.openai.com
-setup.workos.com
 sevenload.com
 sex-11.com
 sex.com
@@ -5938,6 +5918,7 @@ smh.com.au
 smhric.org
 smith.edu
 smn.news
+smoot.apple.com
 smyxy.org
 snapchat.com
 snapseed.com
@@ -6121,8 +6102,6 @@ static.cloudflareinsights.com
 static.pocketcasts.com
 statically.io
 staticflickr.com
-statsig.com
-statsigapi.net
 statueofdemocracy.org
 stboy.net
 stc.com.sa
@@ -6320,7 +6299,6 @@ tchrd.org
 tcnynj.org
 tcpspeed.co
 tcpspeed.com
-tcr9i.chat.openai.com
 tcsofbc.org
 tcsovi.org
 tdesktop.com
@@ -7469,8 +7447,6 @@ workers.dev
 workersthebig.net
 workflow.is
 workflowy.com
-workos.com
-workos.imgix.net
 worldcat.org
 worldjournal.com
 worldpopulationreview.com
@@ -8429,7 +8405,6 @@ zzux.com
 16.63.20.0/25
 16.63.77.8/29
 160.1.128.0/24
-160.79.104.0/21
 161.0.157.195/32
 161.0.157.73/32
 162.212.12.52/32
