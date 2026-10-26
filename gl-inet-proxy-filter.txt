@@ -581,6 +581,7 @@ bibliocommons.com
 bibox.com
 bic2011.org
 bidi.net.uk
+bidobido.xyz
 biedian.me
 big.one
 bigbigchannel.com.hk
@@ -593,6 +594,8 @@ bigmoney.biz
 bignews.org
 bigone.com
 bigsound.org
+bikaios.xyz
+bikawebapp.com
 bild.de
 bilibili.tv
 biliintl.com
@@ -1262,6 +1265,7 @@ compose-spec.io
 compress.to
 conoha.jp
 console.groq.com
+console.typesafe.ai
 constitutionalism.solutions
 contactmagazine.net
 content.jwplatform.com
@@ -1646,6 +1650,7 @@ disqus.com
 disquscdn.com
 dit-inc.us
 divdyn.com
+diwodiwo.xyz
 diyin.org
 dizhidizhi.com
 dizhuzhishang.com
@@ -2572,6 +2577,7 @@ g.co
 g.kfd.me
 g0v.social
 g6hentai.com
+ga.jspm.io
 gab.com
 gabia.net
 gabocorp.com
@@ -3203,6 +3209,7 @@ htx.com
 hu1u.com
 hua-yue.net
 huaglad.com
+huakacomic.com
 huanghuagang.org
 huangyiyu.com
 huaren.us
@@ -3769,6 +3776,7 @@ kicu.tv
 kik.com
 killwall.com
 kilmeadeandfriends.com
+kimootoko.net
 kindle4rss.com
 kindleren.com
 kingdomsalvation.org
@@ -4089,6 +4097,7 @@ mangafox.com
 mangafox.me
 mangaup.jp
 mangmang.run
+manhuabika.com
 manhuaren.com
 maniash.com
 manicur4ik.ru
@@ -4275,6 +4284,7 @@ minhhue.net
 miniforum.org
 miningpoolhub.com
 ministrybooks.org
+minkch.com
 minzhuhua.net
 minzhuzhanxian.com
 minzhuzhongguo.org
@@ -4369,6 +4379,7 @@ motor4ik.ru
 mousebreaker.com
 movements.org
 moves-export.com
+movie.eroterest.net
 moviefap.com
 moviesanywhere.com
 mozilla.org
@@ -4722,6 +4733,9 @@ nivod.tv
 nivodi.tv
 nivodz.com
 njactb.org
+njav.com
+njav.tv
+njavtv.com
 njuice.com
 nlfreevpn.com
 nmsl.website
@@ -5126,6 +5140,7 @@ phptutorial.net
 phuquocservices.com
 piaotia.com
 piaotian.net
+pica-id.com
 picacomic.com
 picacomiccn.com
 picasaweb.com
@@ -5206,6 +5221,7 @@ plusbb.com
 pluto.tv
 pmatehunter.com
 pmates.com
+po-kaki-to.com
 po2b.com
 pobieramy.top
 podbean.com
@@ -6578,6 +6594,7 @@ tinypaste.com
 tinypic.com
 tinyurl.com
 tipas.net
+tipatipa.xyz
 tistory.com
 tkcs-collins.com
 tl.gd
@@ -7366,6 +7383,7 @@ whyx.org
 wide-youtube.l.google.com
 widevine.com
 wikaba.com
+wikawika.xyz
 wiki.esu.im
 wiki.kfd.me
 wikia.com
@@ -7977,6 +7995,7 @@ zoozle.net
 zophar.net
 zorrovpn.com
 zozotown.com
+zozovideo.com
 zpn.im
 zsdxzk.com
 zspeeder.me
