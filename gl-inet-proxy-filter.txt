@@ -1180,6 +1180,7 @@ clips4sale.com
 cloakpoint.com
 cloud.cupronickel.goog
 cloud.oracle.com
+cloud.zed.dev
 cloudcode-pa.googleapis.com
 cloudcone.com
 cloudflare-dns.com
@@ -1396,6 +1397,7 @@ dai.ly
 daidostup.ru
 dailidaili.com
 daily-cloudcode-pa.googleapis.com
+daily-cloudcode-pa.sandbox.googleapis.com
 dailymail.co.uk
 dailymotion.com
 dailysabah.com
