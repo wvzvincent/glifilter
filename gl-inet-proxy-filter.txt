@@ -21,6 +21,7 @@ aboutamazon.com
 abpchina.org
 abplive.com
 abs.edu
+abtestvm-sg.bytedance.com
 acast.com
 accim.org
 accountboy.com
@@ -78,13 +79,17 @@ ahcdn.com
 ai-kan.net
 ai-wen.net
 ai.azure.com
+ai.cloudflare.com
 ai.com
 ai.dev
+ai.developer.meta.com
 ai.google.dev
+ai.meta.com
 ai.studio
 aicode.googleapis.com
 aida.googleapis.com
 aidc.com.tw
+aidemos.meta.com
 aihub.top
 aiosearch.com
 aiph.net
@@ -198,9 +203,11 @@ amnesty.tw
 amnestyusa.org
 amnyemachen.org
 amoiist.com
+ampcode.com
 ampproject.com
 ampproject.net
 ampproject.org
+ampworkers.com
 amtb-taipei.org
 amuletmc.com
 anaconda.com
@@ -238,15 +245,25 @@ anonymizer.com
 anonymouse.org
 anpopo.com
 answering-islam.org
+ant.dev
 antd.org
 anthonycalzadilla.com
+anthropic-com.ghost.io
+anthropic.auth0.com
 anthropic.com
+anthropic.com.cdn.cloudflare.net
+anthropic.com.cn
+anthropic.team
 anti1984.com
 antichristendom.com
+antigravity-pa.googleapis.com
 antigravity-unleash.goog
 antigravity.google
+antigravity.google.com
+antigravity.googleapis.com
 antiwave.net
 antpool.com
+antspace.dev
 anuneko.com
 anysex.com
 ao3.org
@@ -270,13 +287,16 @@ apat1989.org
 apetube.com
 api.ai
 api.amplitude.com
+api.cloudflare.com
 api.github.com
 api.githubcopilot.com
 api.groq.com
 api.imem.app
 api.jetbrains.ai
+api.microsoftapp.net
 api.mixpanel.com
 api.moomoobull.com
+api.msn.com
 api.okzy.tv
 api.proxlet.com
 api.revenuecat.com
@@ -314,6 +334,9 @@ apple.comscoreresearch.com
 apple.news
 applecensorship.com
 applemusic.com
+appsgenaiserver-pa.clients.google.com
+appsgenaiserver-pa.clients6.google.com
+appsgenaiserver-pa.googleapis.com
 appshopper.com
 appsocks.net
 appspot-preview.com
@@ -375,6 +398,7 @@ aspistrategist.org.au
 aspnetcdn.com
 assembla.com
 assets-priconne-redive-us.akamaized.net
+assets.msn.com
 assets.nxtrace.org
 assetshuluimcom-a.akamaihd.net
 assimp.org
@@ -386,6 +410,7 @@ atgfw.org
 athenaeizou.com
 atlanta168.com
 atlaspost.com
+atmeta.com
 atnext.com
 atom.io
 att.com
@@ -404,6 +429,7 @@ audacy.com
 audio-ak-spotify-com.akamaized.net
 audio4-ak-spotify-com.akamaized.net
 audionow.com
+augmentcode.com
 auth0.com
 autodraw.com
 av-e-body.com
@@ -428,6 +454,10 @@ avmoo.pw
 avodmp4s3ww-a.akamaihd.net
 avoision.com
 avyahoo.com
+aws-language-servers.us-east-1.amazonaws.com
+aws-toolkit-language-servers.amazonaws.com
+aws.dev
+awsapps.com
 awsstatic.com
 axios.com
 axureformac.com
@@ -568,6 +598,7 @@ bettween.com
 betvictor.com
 bewww.net
 beyondfirewall.com
+bfl.ai
 bfnn.org
 bfsh.hk
 bgm.tv
@@ -606,6 +637,7 @@ binance.com
 binance.org
 binance.us
 binancezh.cc
+bing-shopping.microsoft-falcon.io
 bing.com
 bing.net
 bingapis.com
@@ -699,6 +731,7 @@ boardreader.com
 bod.asia
 bodog88.com
 bolehvpn.net
+bolt.new
 bonbonme.com
 bonfoundation.org
 boobstagram.com
@@ -754,6 +787,7 @@ broadpressinc.com
 brockbbs.com
 brookings.edu
 browser-intake-datadoghq.com
+browser-intake-us5-datadoghq.com
 brucewang.net
 brutaltgp.com
 bsky.app
@@ -820,6 +854,7 @@ bypasscensorship.org
 byrut.org
 byspotify.com
 bytedapm.com
+bytegate-sg.byteintlapi.com
 bytegecko-i18n.com
 byteintlapi.com
 byteoversea.com
@@ -951,6 +986,7 @@ cdjp.org
 cdn-spotify-experiments.conductrics.com
 cdn-telegram.org
 cdn.angruo.com
+cdn.growthbook.io
 cdn.optimizely.com
 cdn.segment.com
 cdn.usefathom.com
@@ -1008,6 +1044,7 @@ character.ai
 chat.com
 chat.openai.com
 chat.openai.com.cdn.cloudflare.net
+chatbotclaude.com
 chatgpt.com
 chatgpt.livekit.cloud
 chatgpt.site
@@ -1123,10 +1160,12 @@ chubun.com
 chuizi.net
 churchinhongkong.org
 chushigangdrug.ch
+chutes.ai
 ci-en.jp
 cia.gov
 cici.com
 ciciai.com
+ciciaicdn.com
 cienen.com
 cineastentreff.de
 cinemax.com
@@ -1159,8 +1198,16 @@ clashyun.com
 classicalguitarblog.net
 clau.de
 claude.ai
+claude.app
 claude.com
+claude.dev
+claude.new
 claude.site
+claudeacademy.com
+claudemcpclient.com
+claudemcpcontent.com
+claudepages.dev
+claudestudio.com
 claudeusercontent.com
 clb.org.hk
 cleansite.biz
@@ -1172,7 +1219,9 @@ clearwisdom.net
 clementine-player.org
 clien.net
 client-api.arkoselabs.com
+client-telemetry.us-east-1.amazonaws.com
 clients6.google.com
+cline.bot
 cling.omy.sg
 clinica-tibet.ru
 clipconverter.cc
@@ -1183,6 +1232,7 @@ cloakpoint.com
 cloud.cupronickel.goog
 cloud.oracle.com
 cloud.zed.dev
+cloudaicompanion.googleapis.com
 cloudcode-pa.googleapis.com
 cloudcone.com
 cloudflare-dns.com
@@ -1234,10 +1284,18 @@ cochina.co
 cochina.org
 cocoapods.org
 code1984.com
+codeium.com
+codeiumdata.com
+coderabbit.ai
 codeshare.io
 codeskulptor.org
+codewhisperer.us-east-1.amazonaws.com
+cody.dev
 cofacts.tw
 coffeemanga.to
+cognito-identity.us-east-1.amazonaws.com
+cohere.ai
+cohere.com
 coin2co.in
 coinbase.com
 coinbene.com
@@ -1255,8 +1313,11 @@ collateralmurder.com
 collateralmurder.org
 comedycentral.com
 comefromchina.com
+comfy.org
+comfyregistry.org
 comic-mega.me
 commandarms.com
+commandcode.ai
 comments.app
 commentshk.com
 communistcrimes.org
@@ -1267,6 +1328,7 @@ compileheart.com
 compose-spec.io
 compress.to
 conoha.jp
+console.aws.a2z.com
 console.groq.com
 console.typesafe.ai
 constitutionalism.solutions
@@ -1274,6 +1336,7 @@ contactmagazine.net
 content.jwplatform.com
 content.office.net
 contest.com
+continue.dev
 control.kochava.com
 convio.net
 conviva.com
@@ -1286,8 +1349,10 @@ coolloud.org.tw
 coolncute.com
 coolstuffinc.com
 copilot-proxy.githubusercontent.com
+copilot-workspace.githubnext.com
 copilot.cloud.microsoft
 copilot.microsoft.com
+copilotprodattachments.blob.core.windows.net
 coronavirusnow.com
 corumcollege.com
 cos-moe.com
@@ -1316,9 +1381,11 @@ creader.com
 creaders.net
 creadersnet.com
 creativelab5.com
+crewai.com
 crisp.chat
 cristyli.com
 crittercism.com
+crixet.com
 crocotube.com
 crossfire.co.kr
 crossthewall.net
@@ -1359,8 +1426,11 @@ culturedcode.com
 cumlouder.com
 curbed.com
 curiositystream.com
+cursor-cdn.com
 cursor.com
 cursor.sh
+cursorapi.com
+cursorvm.com
 curvefish.com
 cusp.hk
 cusu.hk
@@ -1486,6 +1556,7 @@ deck.new
 decodet.co
 deepai.org
 deepdiscount.com
+deepinfra.com
 deepmind.com
 deepmind.google
 deezer.com
@@ -1504,14 +1575,17 @@ dependabot.com
 depositphotos.com
 derekhsu.homeip.net
 desc.se
+descript.com
 desipro.de
 deskconnect.com
 dessci.com
 destroy-china.jp
 deutsche-welle.de
 developer.apple.com
+developer.meta.com
 deviantart.com
 deviantart.net
+devin.ai
 devio.us
 devpn.com
 devv.ai
@@ -1521,6 +1595,8 @@ dh.net
 dharamsalanet.com
 dharmakara.net
 dhcp.biz
+diabrowser.com
+diabrowser.engineering
 diaoyuislands.org
 difangwenge.org
 dify.ai
@@ -1769,6 +1845,7 @@ dtvce.com
 dtwang.org
 duanzhihu.com
 dubox.com
+duck.ai
 duck.com
 duckdns.org
 duckduckgo.com
@@ -1856,6 +1933,7 @@ edge.cwtv-vod-ext.top.comcast.net
 edgecastcdn.net
 edgedatg.com
 edgekey.net
+edgeservices.bing.com
 edgesuite.net
 edicypages.com
 edigest.hk
@@ -1875,6 +1953,7 @@ efukt.com
 ehgt.org
 ehwiki.org
 eic-av.com
+eigent.ai
 eireinikotaerukai.com
 eisbb.com
 eksisozluk.com
@@ -1883,6 +1962,9 @@ elastic.com
 elconfidencial.com
 electionsmeter.com
 electrek.co
+elevenlabs.com
+elevenlabs.io
+elevenlabsusercontent.com
 elgoog.im
 ellawine.org
 elpais.com
@@ -2023,6 +2105,7 @@ faceless.me
 facesofnyfw.com
 facesoftibetanselfimmolators.info
 factchecklab.org
+factory.ai
 factpedia.org
 fail.hk
 faith100.org
@@ -2156,10 +2239,13 @@ finler.net
 firearmsworld.net
 firebaseinstallations.googleapis.com
 firebaseio.com
+firefly.adobe.com
+firefly.adobe.io
 firefox.com
 fireofliberty.info
 fireofliberty.org
 firetweet.io
+fireworks.ai
 firstfivefollowers.com
 firstory.me
 firstpost.com
@@ -2184,6 +2270,8 @@ flipkart.com
 flitto.com
 flnet.org
 flog.tw
+flow.google
+flow.google.com
 flowgpt.com
 flowhongkong.net
 fls-na.amazon.com
@@ -2598,6 +2686,7 @@ gameloft.com
 gamer.com.tw
 gamerp.jp
 gamez.com.tw
+gamma.app
 gamme.com.tw
 gamousa.com
 ganges.com
@@ -2617,6 +2706,8 @@ gate.com
 gate.io
 gatecoin.com
 gateway.ai.cloudflare.com
+gateway.bingviz.microsoft.net
+gateway.bingviz.microsoftapp.net
 gather.com
 gatherproxy.com
 gati.org.tw
@@ -2645,12 +2736,16 @@ gelbooru.com
 geller-pa.googleapis.com
 gemini.google
 gemini.google.com
+gemini.gstatic.com
+geminiweb-pa.clients.google.com
+geminiweb-pa.clients6.google.com
 gencraft.com
 generated.photos
 generativeai.google
 generativelanguage.googleapis.com
 geni.us
 genius.com
+genspark.ai
 geocities.co.jp
 geocities.com
 geocities.jp
@@ -2850,6 +2945,7 @@ gr8domain.biz
 gr8name.biz
 gradconnection.com
 grammaly.com
+grammarly.com
 grandtrial.org
 grangorz.org
 graph.org
@@ -2879,6 +2975,8 @@ greenvpn.net
 greenvpn.org
 grindr.com
 grok.com
+grok.x.com
+grokbot.com
 grokipedia.com
 groq.com
 grotty-monday.com
@@ -2925,6 +3023,7 @@ h-dazn.online-metrix.net
 h-moe.com
 h-netflix.online-metrix.net
 h1n1china.org
+h2o.ai
 h528.com
 h5dm.com
 h5galgame.me
@@ -3025,6 +3124,7 @@ hentaivideoworld.com
 heqinglian.net
 here.com
 heritage.org
+hermes-agent.nousresearch.com
 heroku.com
 herokuapp.com
 herominers.com
@@ -3032,8 +3132,11 @@ heungkongdiscuss.com
 hexieshe.com
 hexieshe.xyz
 hexxeh.net
+heygen.com
 heyuedi.com
 heyzo.com
+hf.co
+hf.space
 hgseav.com
 hhdcb3office.org
 hhthesakyatrizin.org
@@ -3359,6 +3462,9 @@ iddddg.com
 idemocracy.asia
 identi.ca
 identrust.com
+ideogram.ai
+idetoolkits-hostedfiles.amazonaws.com
+idetoolkits.amazonwebservices.com
 idiomconnection.com
 idlcoyote.com
 idope.se
@@ -3425,6 +3531,7 @@ impp.mn
 improd.works
 imtoken.fans
 in-disguise.com
+in.appcenter.ms
 in.com
 in99.org
 incapdns.net
@@ -3442,6 +3549,7 @@ indiemerch.com
 indsr.org.tw
 inf.news
 inference.codeium.com
+inflection.ai
 info-graf.fr
 informer.com
 infosec.exchange
@@ -3468,6 +3576,7 @@ inter.iqiyi.com
 interactivebrokers.com
 intercom.io
 intercomcdn.com
+interface.feedback
 international-news.newsmagazine.asia
 internet.org
 internetfreedom.org
@@ -3697,6 +3806,7 @@ jtvnw.net
 jubushoushen.com
 juhuaren.com
 jukujo-club.com
+jules.google
 jules.google.com
 juliepost.com
 juliereyc.com
@@ -3780,6 +3890,8 @@ kicu.tv
 kik.com
 killwall.com
 kilmeadeandfriends.com
+kilo.ai
+kilo.codes
 kimootoko.net
 kindle4rss.com
 kindleren.com
@@ -3792,6 +3904,7 @@ kinmen.org.tw
 kinmen.travel
 kinokuniya.com
 kir.jp
+kiro.dev
 kissjav.com
 kiwi.kz
 kiwix.org
@@ -3851,6 +3964,9 @@ kzaobao.com
 kzeng.info
 la-forum.org
 labiennale.org
+labs.google
+labs.google.com
+labstailwind.pa.googleapis.com
 ladbrokes.com
 lagranepoca.com
 lala.im
@@ -3861,6 +3977,7 @@ lamnia.co.uk
 lamrim.com
 landbank.com.tw
 landofhope.tv
+langchain.com
 lantern.io
 lantosfoundation.org
 laogai.org
@@ -3880,6 +3997,8 @@ lausan.hk
 lbank.info
 lbctrl.com
 lbkrs.com
+lcicat.org
+lcicollections.org
 ldplayer.net
 ldplayer.tw
 le-vpn.com
@@ -3909,6 +4028,7 @@ level-plus.net
 lexica.art
 lf16-effectcdn.byteeffecttos-g.com
 lf16-pkgcdn.pitaya-clientai.com
+lf3-static.bytednsdoc.com
 lflink.com
 lflinkup.com
 lflinkup.net
@@ -3995,15 +4115,20 @@ liwangyang.com
 liyuans.com
 lizhizhuangbi.com
 lkcn.net
+llama.com
+llama.developer.meta.com
+llamameta.net
 llnwd.net
 llss.me
 lmarena.ai
+lmstudio.ai
 lmsys.org
 load.to
 lobsangwangyal.com
 localbitcoins.com
 localdomain.ws
 localpresshk.com
+location.microsoft.com
 lockestek.com
 logbot.net
 login.microsoftonline.com
@@ -4032,6 +4157,7 @@ lorenzetti.com.br
 lotsawahouse.org
 lotuslight.org.hk
 lotuslight.org.tw
+lovable.dev
 lovart.ai
 loved.hk
 lovetvshow.com
@@ -4052,6 +4178,7 @@ luckymobile.ca
 ludepress.com
 luke54.com
 luke54.org
+lumalabs.ai
 lupm.org
 lushstories.com
 luxebc.com
@@ -4110,6 +4237,7 @@ mansion.com
 mansionpoker.com
 manta.com
 manus.im
+manuscdn.com
 manyvoices.news
 maplew.com
 marc.info
@@ -4167,6 +4295,7 @@ mcadforums.com
 mcaf.ee
 mceindex.com
 mcfog.com
+mcpservertest.online
 mcreasite.com
 mcusercontent.com
 md-t.org
@@ -4223,6 +4352,7 @@ mesotw.com
 messenger.com
 meta.ai
 meta.com
+metaaiusercontent.com
 metaaivm.com
 metacafe.com
 metacubex.one
@@ -4253,6 +4383,7 @@ microsoftpersonalcontent.com
 microsofttranslator.com
 microvpn.com
 middle-way.net
+midjourney.com
 mihk.hk
 mihr.com
 mihua.org
@@ -4334,6 +4465,10 @@ mobileways.de
 moby.to
 mobypicture.com
 mod.io
+modelcontextprotocol.com
+modelcontextprotocol.io
+modelcontextprotocol.net
+modelcontextprotocol.org
 modernchinastudies.org
 modmyi.com
 moeerolibrary.com
@@ -4428,6 +4563,7 @@ musicade.net
 musical.ly
 musixmatch.com
 muslimvideo.com
+muthos.com
 muzi.com
 muzi.net
 muzu.tv
@@ -4763,13 +4899,18 @@ nordstromrack.com
 nordvpn.com
 nos.nl
 note.com
+notebook.google
+notebook.google.com
+notebooklm-pa.googleapis.com
 notebooklm.google
 notebooklm.google.com
+notebooklm.googleapis.com
 notepad-plus-plus.org
 notion.so
 nottinghampost.com
 novafile.com
 novelasia.com
+novita.ai
 now-ashare.com
 now-tv.com
 now.com
@@ -4854,6 +4995,7 @@ nzchinese.com
 nzchinese.net.nz
 o3o.ca
 oaistatic.com
+oaistatsig.com
 oaiusercontent.com
 oanda.com
 oann.com
@@ -4874,6 +5016,7 @@ octocaptcha.com
 oculus.com
 oculuscdn.com
 ocvideo.apple.com
+odc.officeapps.live.com
 odysee.com
 oex.com
 offbeatchina.com
@@ -4903,6 +5046,7 @@ olevod.com
 olevod.io
 olevod.tv
 olevodtv.com
+ollama.com
 olumpo.com
 olympicwatch.org
 omct.org
@@ -4941,10 +5085,15 @@ ooni.io
 ooni.org
 oopsforum.com
 ooyala.com
+opal.google
+opal.google.com
 open.com.hk
 openai-api.arkoselabs.com
 openai.com
+openai.com.cdn.cloudflare.net
+openai.org
 openaiapi-site.azureedge.net
+openaiassets.blob.core.windows.net
 openaicom-api-bdcpf8c6d2e9atf6.z01.azurefd.net
 openaicom.imgix.net
 openaicomproductionae4b.blob.core.windows.net
@@ -4954,6 +5103,8 @@ openapi-trade.longbridge.cn
 openapi.longbridge.cn
 openart.ai
 openbase.com
+openclaw.ai
+opencode.ai
 opencritic.com
 opendemocracy.net
 opendn.xyz
@@ -4991,6 +5142,7 @@ osmand.net
 osxdaily.com
 otcbtc.com
 otnd.org
+otter.ai
 otto.de
 otzo.com
 ouo.io
@@ -5124,6 +5276,7 @@ perfectvpn.net
 periscope.tv
 perma.cc
 perplexity.ai
+perplexity.com
 persagg.com
 persecutionblog.com
 persiankitty.com
@@ -5133,6 +5286,7 @@ phapluan.org
 phayul.com
 philborges.com
 philly.com
+phind.com
 phmsociety.org
 phncdn.com
 phonegap.com
@@ -5142,6 +5296,7 @@ photonmedia.net
 phprcdn.com
 phptutorial.net
 phuquocservices.com
+pi.ai
 piaotia.com
 piaotian.net
 pica-id.com
@@ -5156,6 +5311,7 @@ picturedip.com
 picturesocial.com
 picuki.com
 pigav.com
+pika.art
 pimg.tw
 pin-cong.com
 pin6.com
@@ -5233,6 +5389,7 @@ podcast.co
 podictionary.com
 podwise.ai
 poe.com
+poecdn.net
 points-media.com
 pokemon.com
 pokerstars.com
@@ -5277,7 +5434,10 @@ powercx.com
 powerphoto.org
 powerpointninja.com
 pp.ua
+ppl-ai-file-upload.s3.amazonaws.com
 pplusstatic.com
+pplx-res.cloudinary.com
+pplx.ai
 ppy.sh
 prayforchina.net
 prcleader.org
@@ -5310,6 +5470,7 @@ privoxy.org
 proactivebackend-pa.googleapis.com
 procopytips.com
 prod.hjholdings.tv
+production-copilot-host-westus.webpubsub.azure.com
 production-openaicom-storage.azureedge.net
 project-syndicate.org
 prompthero.com
@@ -5383,6 +5544,9 @@ pythonhackers.com
 pythonhosted.org
 pythonic.life
 pytorch.org
+q-developer-integration.us-east-1.api.aws
+q.eu-central-1.amazonaws.com
+q.us-east-1.amazonaws.com
 q13.com
 q13fox.com
 qanote.com
@@ -5426,6 +5590,7 @@ qobuz.ro
 qobuz.se
 qobuz.tv
 qobuz.us
+qoder.com
 qoos.com
 qpoe.com
 qq.co.za
@@ -5530,6 +5695,7 @@ recordhistory.org
 recovery.org.tw
 recoveryversion.com.tw
 recoveryversion.org
+recraft.ai
 red-lang.org
 redballoonsolidarity.org
 redbubble.com
@@ -5556,6 +5722,13 @@ religionnews.com
 religioustolerance.org
 rentry.co
 renyurenquan.org
+repl.co
+repl.it
+replicate.com
+replicate.delivery
+replit.app
+replit.com
+replit.dev
 repo.new
 resilio.com
 resistchina.org
@@ -5639,6 +5812,8 @@ rule34.xxx
 rule34video.com
 rumble.com
 runbtx.com
+runway.com
+runwayml.com
 rushbee.com
 rustdesk.com
 rusvpn.com
@@ -5741,12 +5916,14 @@ segment.io
 sehuatang.net
 sehuatang.org
 sejie.com
+self.events.data.microsoft.com
 sellclassics.com
 sendsmtp.com
 sendspace.com
 sensortower.com
 sentry.io
 seraph.me
+servd-anthropic-website.b-cdn.net
 servehttp.com
 server.codeium.com
 server.self-serve.windsurf.com
@@ -5770,6 +5947,7 @@ sexidude.com
 sexinsex.net
 sextvx.com
 sf.net
+sf16-short-sg.bytedapm.com
 sfileydy.com
 sfshibao.com
 sftindia.org
@@ -5854,6 +6032,7 @@ signal.org
 sijihuisuo.club
 sijihuisuo.com
 silkbook.com
+sillylittleguy.org
 silvergatebank.com
 simg.jp
 simianx.ai
@@ -6089,6 +6268,7 @@ ssglobal.co
 ssglobal.me
 ssh91.com
 ssl443.org
+sso.amazonaws.com
 sspanel.net
 sspanel.org
 sspro.ml
@@ -6102,6 +6282,7 @@ sstm.moe
 sstmlt.moe
 sstmlt.net
 st.luluku.pw
+stability.ai
 stackoverflow.com
 stage64.hk
 standard.co.uk
@@ -6111,6 +6292,7 @@ stanford.edu
 star-brasil.com
 star-latam.com
 starfishfx.com
+starling.zijieapi.com
 starott.com
 starp2p.com
 starplus.com
@@ -6126,6 +6308,7 @@ static.cloudflareinsights.com
 static.pocketcasts.com
 statically.io
 staticflickr.com
+statsigapi.net
 statueofdemocracy.org
 stboy.net
 stc.com.sa
@@ -6141,10 +6324,12 @@ sthoo.com
 stickam.com
 stickeraction.com
 stileproject.com
+stitch.withgoogle.com
 stitcher.com
 sto.cc
 stoporganharvesting.org
 stoptibetcrisis.net
+storage.googleapis.com
 storagenewsletter.com
 storify.com
 storj.io
@@ -6227,6 +6412,7 @@ symcd.com
 synapse.org
 syncback.com
 synergyse.com
+synthesia.io
 syosetu.com
 sysresccd.org
 sysub.com
@@ -6244,6 +6430,7 @@ t91y.com
 taa-usa.org
 taaze.tw
 tablesgenerator.com
+tabnine.com
 tabtter.jp
 tacem.org
 taconet.com.tw
@@ -6615,6 +6802,8 @@ tngrnow.net
 tnp.org
 tnt-ea.com
 todoist.com
+together.ai
+together.xyz
 togetter.com
 toggleable.com
 toh.info
@@ -6681,6 +6870,7 @@ trialofccp.org
 trickip.net
 trickip.org
 trimondi.de
+tron-sg.bytelemon.com
 tronscan.org
 trouw.nl
 trt.net.tr
@@ -6901,6 +7091,7 @@ ucanews.com
 ucdc1998.org
 uchicago.edu
 uderzo.it
+udio.com
 udn.com
 udn.com.tw
 udnbkk.com
@@ -7034,6 +7225,8 @@ v.recipes
 v.roucdn
 v.smtcdns.com
 v.smtcdns.net
+v0.app
+v0.dev
 v2.help
 v2.hysteria.network
 v2ex.co
@@ -7311,6 +7504,7 @@ weather.com.hk
 web.dev
 web2project.net
 webbang.net
+webchannel-alkalimakersuite-pa.clients6.google.com
 webevader.org
 webfreer.com
 webjb.org
@@ -7427,6 +7621,8 @@ wilsoncenter.org
 wimpmusic.com
 windowsphoneme.com
 windscribe.com
+windsurf.build
+windsurf.com
 windy.com
 wingamestore.com
 wingy.site
@@ -7707,7 +7903,9 @@ youdontcare.com
 youjizz.com
 youlucky.com
 youmaker.com
+youmind.ai
 youmind.com
+youmind.site
 youngspiration.hk
 youpai.org
 your-freedom.net
@@ -7932,6 +8130,7 @@ zapto.org
 zattoo.com
 zb.com
 zdnet.com.tw
+zed.dev
 zee5.com
 zee5.in
 zee5.tv
@@ -8432,6 +8631,7 @@ zzux.com
 16.63.20.0/25
 16.63.77.8/29
 160.1.128.0/24
+160.79.104.0/21
 161.0.157.195/32
 161.0.157.73/32
 162.212.12.52/32
@@ -8892,6 +9092,7 @@ zzux.com
 198.45.48.0/20
 198.7.237.134/32
 199.200.48.0/22
+199.47.142.0/23
 199.60.116.0/24
 200.107.255.198/32
 200.107.255.202/32
