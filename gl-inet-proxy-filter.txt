@@ -743,6 +743,7 @@ breaking911.com
 breakingtweets.com
 breakwall.net
 briarproject.org
+bridge.claudeusercontent.com
 briefdream.com
 briian.com
 brill.com
@@ -1159,6 +1160,7 @@ classicalguitarblog.net
 clau.de
 claude.ai
 claude.com
+claude.site
 claudeusercontent.com
 clb.org.hk
 cleansite.biz
